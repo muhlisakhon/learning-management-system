@@ -11,3 +11,5 @@ Students’ regulation of Eötvös Loránd University (ELTE Regulations Vol. II.
 |-------------------|------------------------------|----------------|
 | Dr. Sarah Johnson | s.johnson@cs.university.edu  | SecureCS@2024! |
 | Prof. Michael Chen| m.chen@cs.university.edu     | CSedu$5678!    |
+# learning-management-system
+Full-stack Learning Management System built with Laravel, PHP, SQLite, and Tailwind CSS. Features role-based access (Teacher/Student), subject/task management, task submission, and responsive UI.
